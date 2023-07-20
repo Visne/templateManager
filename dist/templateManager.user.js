@@ -1,9 +1,8 @@
 
 // ==UserScript==
 // @namespace		littleendu.xyz
-// @downloadURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
-// @updateURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
-// @match			https://pxls.space/
+// @downloadURL		https://github.com/Visne/templateManager/raw/main/dist/templateManager.user.js
+// @updateURL		https://github.com/Visne/templateManager/raw/main/dist/templateManager.user.js
 // @match			https://new.reddit.com/r/place/*
 // @match			https://www.reddit.com/r/place/*
 // @match			https://garlic-bread.reddit.com/embed*
